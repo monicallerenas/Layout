@@ -1,0 +1,35 @@
+.container{
+	width: 700px;
+	margin: 0 auto;
+}
+.linea{
+	background-color: black;
+	width: 950px;
+	height: 1px;
+}
+.linea2{
+	background-color: black;
+	width: 150px;
+	height: 1px;
+	margin-left: 400px;
+}
+p{
+	text-align: center;
+	margin-left: 300px;
+}
+.linea3{
+	background-color: black;
+	height: 1px;
+	width: 100px;
+	margin-left: 0px;
+}
+.vertical{
+	background-color: black;
+	height:15px;
+	width: 1px;
+}
+li{
+	text-align: center;
+	display: inline block;
+
+}
