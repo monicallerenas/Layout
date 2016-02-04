@@ -2,17 +2,54 @@
 	width: 700px;
 	margin: 0 auto;
 }
-img{
+.todo{
+	border:black 1px solid;
+}
+.lorem{
 	border-radius: 100%;
 	width: 250px;
 	height: 250px;
 	border: violet 3px solid;
+	margin:5px 200px 5px 220px;
 }
 h1{
 	font-family: arial;
 	font-size: 40px;
+	text-align: center;
 }
 p{
-	font-family: arial
-
+	font-family: arial;
+	text-align: center;
+}
+.largo{
+	width: 500px;
+	height: 20px;
+	background-color: grey;
+	border: 2px solid grey;
+	padding: 5px;
+	margin:5px 0px 5px 0px;
+}
+.medio{
+	width: 300px;
+	height: 20px;
+	background-color: grey;
+	border: 2px solid grey;
+	padding: 5px;
+	margin:5px 0px 5px 0px;
+}
+.corto{
+	width: 100px;
+	height: 20px;
+	background-color: grey;
+	border: 2px solid grey;
+	padding: 5px;
+	margin:5px 0px 5px 0px;
+}
+.cubo{
+	width: 200px;
+	height: 200px;
+	border: 4px pink solid;
+}
+.portafolio{
+	padding-left: 30px;
 }
