@@ -2,11 +2,19 @@
 	width: 700px;
 	margin: 0 auto;
 }
+.personal{
+	border: 5px violet solid;
+}
 .linea{
 	background-color: black;
 	width: 950px;
+	
 	height: 1px;
 }
+ul{
+	list-style: none;
+}
+
 .linea2{
 	background-color: black;
 	width: 150px;
@@ -16,6 +24,12 @@
 p{
 	text-align: center;
 	margin-left: 300px;
+}
+.grupo1{
+	display: inline-block;
+}
+.grupo2{
+	display: inline-block;
 }
 .linea3{
 	background-color: black;
@@ -30,6 +44,4 @@ p{
 }
 li{
 	text-align: center;
-	display: inline block;
-
 }
