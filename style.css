@@ -8,11 +8,11 @@
 .linea{
 	background-color: black;
 	width: 950px;
-	
 	height: 1px;
 }
 ul{
 	list-style: none;
+	margin: 0% 0% 0% 35%;
 }
 
 .linea2{
@@ -41,7 +41,10 @@ p{
 	background-color: black;
 	height:15px;
 	width: 1px;
+	margin: 8px;
+	display: inline;
 }
 li{
 	text-align: center;
+	display: inline-block;
 }
